@@ -1,0 +1,5 @@
+# Ignorer les fichiers de configuration
+config.ini
+
+# Ignorer le dossier de dépendances généré
+env/
